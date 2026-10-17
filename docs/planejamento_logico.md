@@ -26,7 +26,7 @@ bookshelf-projeto/
 ├── README.md
 ├── .gitignore
 ├── docs/
-│   └── planejamento_logico.pdf
+│   └── planejamento_logico.md
 └── src/
     └── main.py
 ```
